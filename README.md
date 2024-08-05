@@ -21,7 +21,7 @@ npx degit Anthony-Philippe/template-vite-react-ts && ./rename_project.sh
 
 2. Write your project name on the console
 
-3. Add package
+3. Install package
 ```sh
   yarn # or use other package manager
 ```
