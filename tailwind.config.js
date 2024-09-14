@@ -76,19 +76,15 @@ export const plugins = [
   plugin(function ({ addUtilities }) {
     const newUtilities = {
       ".gridView-1": {
-        borderWidth: "8px",
-        borderColor: "#FF471E",
+        backgroundColor: "#FF471E",
       },
       ".gridView-2": {
-        borderWidth: "8px",
         borderColor: "#F4E916",
       },
       ".gridView-3": {
-        borderWidth: "8px",
         borderColor: "#26BF49",
       },
       ".gridView-4": {
-        borderWidth: "8px",
         borderColor: "#02A6DD",
       },
     };
